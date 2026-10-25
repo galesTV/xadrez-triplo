@@ -1,9 +1,9 @@
-import HexBoard from "../components/HexBoard"; // Ajuste o caminho se necessário
+import TriChessBoard from "../components/TriChessBoard";
 
 export default function Home() {
   return (
     <main>
-      <HexBoard />
+      <TriChessBoard />
     </main>
   );
 }
